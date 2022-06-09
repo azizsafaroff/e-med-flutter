@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602783395035",
+    "project_id": "emed-f8821",
+    "storage_bucket": "emed-f8821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602783395035:android:cbe1f72354e57aa13c70fe",
+        "android_client_info": {
+          "package_name": "com.universe.emed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602783395035-r87jm765p63hcp0en1i0m3ov5nbmt1l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRqH2VAiAYi1wlIDcAf6yjaSj848gi0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602783395035-r87jm765p63hcp0en1i0m3ov5nbmt1l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
